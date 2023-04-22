@@ -36,7 +36,7 @@ const App = () => {
           </label>
         </div>
         <button type='submit'>
-          submitsubmit
+          i
         </button>
 
       </form>
