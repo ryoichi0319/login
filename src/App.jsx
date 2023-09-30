@@ -5,6 +5,7 @@ const App = () => {
   const handleSend =(e) =>{
     e.preventDefault();
     console.log(form);
+    aaa
   };
   const [form, setForm] = useState({email: '', password: ""});
   const handleChange = (e) =>{
